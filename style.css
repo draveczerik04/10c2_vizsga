@@ -7,6 +7,9 @@ header {
 }
 
 header h1 {
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
   padding-top: 40px;
   font-size: 4vw;
   letter-spacing: 25px;
